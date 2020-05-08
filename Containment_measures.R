@@ -43,3 +43,4 @@ dat2
 wordcloud2(dat2, minRotation = -pi/6, maxRotation = -pi/6, minSize = 10,
            rotateRatio = 1)
 wordcloud(m2)
+                               wordcloud
